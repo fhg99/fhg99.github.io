@@ -18,7 +18,7 @@ Hi there! My name is Fernando Herrera. I'm a 100% mexican made Biomedical Engine
 
 ### Large image
 
-![EEG Classification: Animals and Objects](https://guides.github.com/activities/hello-world/branching.png)
+![EEG Classification: Animals and Objects](/assets/img/EEG_Classification_Animals_Objects.png)
 
 [Take me to the project!](./another-page.html).
 
