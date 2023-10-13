@@ -1,0 +1,6 @@
+# Virtual envs
+.env/
+.env
+
+# DS Store
+.DS_Store
