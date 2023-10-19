@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin: 0 1.3rem 1.3rem 1.3rem;
+}
+
+.icon-container {
+    margin: 0.3rem;
+    display: inline-block;
+    transition: transform 0.5s;
+    width: 2rem; 
+    height: 2rem;
+    overflow: hidden;
+}
+
+.icon-container a {
+    display: block;
+}
+
+.icon-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.icon-container:hover {
+    transform: scale(1.2);
+}
