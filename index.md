@@ -25,7 +25,7 @@ My name is Fernando Herrera. I'm a 100% mexican made Biomedical Engineer, born a
 > if two or more states are selected.
 
 ![Crime Data in Mexico From 2015 to 2023](./assets/img/Project_IMG_MexicoCrimeDashboard.png)
-[Take me to the project!](https://github.com/fhg99/fhg99.github.io/blob/main/Projects/Data/DataAnalysis/AnimeAndJapanTourism/animeandjapantourism.ipynb)
+[Take me to the project!](https://github.com/fhg99/fhg99.github.io/blob/main/Projects/Data/DataAnalysis/MexicoCrimeDashboard/dashboard.ipynb)
 
 ### **Anime Impact on Japanese Overseas Visits** _(Data Analysis)_
 ##### **Skills Applied:** Python, Pandas, BeautifulSoup (Web Scraping), Seaborn/Matplotlib
