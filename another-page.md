@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Unused Page
 
-_yay_
+_unused_
 
 [back](./)
