@@ -42,13 +42,16 @@ My name is Fernando Herrera. I'm a 100% mexican made Biomedical Engineer, born a
 ![Anime Impact on Japanese Overseas Visits](./assets/img/Project_IMG_AnimeAndJapanTourism.png)
 [Take me to the project!](https://github.com/fhg99/fhg99.github.io/blob/main/Projects/Data/DataAnalysis/AnimeAndJapanTourism/animeandjapantourism.ipynb)
 
-### EEG Classification: Animals and Objects
+### **IBM Data Analyst Capstone Project: Analysis of The Stack Overflow Developer Survey 2019** _(Data Analysis / Visualization)_
+##### **Skills Applied:** IBM Cognos Analytics (Dashboard Design), Presentation Design
 
-> During this project, the EEG dataset of 15 male subjects was extracted, visualized 
-> and pre-processed to attempt obtaining an accurate binary classification neural network
-> using Pytorch, predicting wether a subject is identifying the picture of an animal or of 
-> an object.
+> This is the final project I delivered for the IBM Data Analyst certification. Here, I explored
+> a dataset provided by Stack Overflow, about a survey they launched for their users in 2019
+> requesting information regarding the technologies, languages and platform they work with as
+> well as some personal information for a demographical analysis. An interactive dashboard was
+> generated highlighting key insights of this information.
+> The Cognos Analytics Interactive dashboard created can be accesed [here](https://eu-de.dataplatform.cloud.ibm.com/dashboards/9d5cbc58-5b2c-41a7-a367-88812d220535/view/7b1ba1291e902d9752dcb5e4079825027536275fe6bb8706d6837b490f672497f03a4094c8284e5ad8180d30f0b8105ac8)
 
-![EEG Classification: Animals and Objects](./assets/img/Project_IMG_EEGClassificationAnimalsObjects.png)
-[Take me to the project!](./another-page.html)
+![IBM Data Analyst Capstone Project](./assets/img/Project_IMG_IBMDataAnlystCapstoneProject.png)
+[Download Project Presentation (PDF)!](./Projects/Data/DataAnalysis/StackOverflowSurveyAnalysis/CapstoneProject_Fernando.pdf)
 
